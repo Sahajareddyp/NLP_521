@@ -1,4 +1,4 @@
-Stock Embeddings Generation Repository
+#Stock Embeddings
 This repository is dedicated to the development and application of machine learning models for generating stock embeddings, offering powerful tools for analyzing and visualizing financial data through the lens of Natural Language Processing (NLP) and context-aware algorithms.
 
 Python Notebooks
