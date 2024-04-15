@@ -4,7 +4,7 @@ import numpy as np
 import torch
 from torch import nn, optim
 from torch.utils.data import DataLoader, Dataset
-from tqpip install tqdmdm import tqdm
+from tqdm import tqdm
 
 from base_model import BaseModel
 
