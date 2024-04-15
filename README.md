@@ -82,6 +82,7 @@ The combination of these libraries forms the backbone of our data processing, mo
 
 - **Visualization**
   - PCA scatter plot demonstrating sector clustering of stock embeddings.
+    ![Pointwise Embedding Scatter Plot](utils/Pointwise_embedding.jpg "Pointwise Embedding Scatter Plot")
 
 ### Window-wise Embedding Model Output
 
@@ -93,4 +94,5 @@ The combination of these libraries forms the backbone of our data processing, mo
 
 - **Visualization**
   - PCA scatter plot showing dispersion and sector overlap in stock embeddings.
+    ![Window-wise Embedding Scatter Plot](utils/Windowwise_embedding.jpg "Window-wise Embedding Scatter Plot")
 
